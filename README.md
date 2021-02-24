@@ -9,7 +9,7 @@ In this repository I'm following the Qiskit textbook. I'm trying to learn the mo
 - **Quantum States and Qubits**
   - [x] The Atoms  of Computation
   - [x] Representing Qubit States
-  - [ ] Single Qubit Gates
+  - [x] Single Qubit Gates
   - [ ] The Case for Quantum
 
 - **Multiple Qubits and Entanglement**
